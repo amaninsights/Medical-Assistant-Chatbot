@@ -28,7 +28,7 @@ This `README.md` file provides an overview of the project, installation instruct
    ```sh
    pip install -r requirements.txt
    ```
-4. **Create a .env file in the project directory and add your Google API key:**:
+4. **In the .env file in the project directory add your Google API key:**:
    ```sh
    GOOGLE_API_KEY=your_google_api_key
    ```
